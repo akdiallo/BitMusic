@@ -5,7 +5,6 @@
  */
 
 package hmi.modules.connection;
-
 import hmi.patterns.AbstractModel;
 
 /**
